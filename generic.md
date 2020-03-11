@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: AKAMAI Capital LLC
+description: Long/Short Equity Fund
+image: assets/images/Trading.jpg
 nav-menu: true
 ---
 
