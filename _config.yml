@@ -3,7 +3,7 @@ title: AKAMAI Foundation
 subtitle:
 email: akamaifoundation.org
 description: For more than 20 years, AKAMAI has been an innovator in education, mentorship, and networks to turn untapped potential into newfound greatness. We are creating an ecosystem of excellence, and propelling human potential.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/AKAMAI-Foundation" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
