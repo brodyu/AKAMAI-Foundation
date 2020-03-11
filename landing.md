@@ -1,8 +1,8 @@
 ---
-title: Who We Are
+title: We Are AKAMAI
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/city.jpg
+description: 'Our alumni network spans all the major cities across the globe. Here are just a few of our notable alumni.'
+image: assets/images/london.jpg
 nav-menu: true
 ---
 
