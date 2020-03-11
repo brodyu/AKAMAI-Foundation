@@ -2,7 +2,7 @@
 layout: post
 title: AKAMAI Finance Academy
 description: Intensive financial training program training students for career on Wall Street.
-image: assets/images/stocks.jpg
+image: assets/images/wallstreet.jpg
 nav-menu: true
 ---
 
