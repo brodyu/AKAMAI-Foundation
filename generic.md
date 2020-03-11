@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AKAMAI Capital LLC
-description: Long/Short equity fund and the investment arm of the AKAMAI Finance Academy. Provides students with real work experience in the capital markets. 
+description: Long/Short equity fund and the investment arm of the AKAMAI Finance Academy. Provides students with real work experience in the capital markets.
 image: assets/images/Trading.jpg
 nav-menu: true
 ---
