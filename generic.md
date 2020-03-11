@@ -6,8 +6,12 @@ image: assets/images/Trading.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+AKAMAI Capital LLC is a wholly-owned subsidiary and investment arm of The AKAMAI Foundation CDFI, created exclusively to provide:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Investment capital for companies operating within socioeconomically disadvantaged communities or companies owned by socioeconomically disadvantaged persons;
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Real world experience for student Analysts in the AKAMAI Finance Academy including personnel and P&L responsibility, and sector-specific knowledge;
+
+Specialized Financial Technical Assistance and Training for entrepreneurs as part of an investment package or on a purely advisory basis.
+
+The above services are provided by AKAMAI Capital via the operation of its Pan-Asia Long/Short Equity Fund and its CDVC Fund. The Pan-Asia Fund provides students with working experience in Asset Management, and the CDVC Fund provides students with the opportunity to apply what they learned in AFA in a real-world setting while simultaneously providing entrepreneurs with Specialized Financial Technical Assistance, Training, and capital investment.
